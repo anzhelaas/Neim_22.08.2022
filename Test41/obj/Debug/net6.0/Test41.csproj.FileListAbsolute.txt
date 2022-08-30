@@ -1,0 +1,15 @@
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\bin\Debug\net6.0\Test41.exe
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\bin\Debug\net6.0\Test41.deps.json
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\bin\Debug\net6.0\Test41.runtimeconfig.json
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\bin\Debug\net6.0\Test41.dll
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\bin\Debug\net6.0\Test41.pdb
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\obj\Debug\net6.0\Test41.csproj.AssemblyReference.cache
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\obj\Debug\net6.0\Test41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\obj\Debug\net6.0\Test41.AssemblyInfoInputs.cache
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\obj\Debug\net6.0\Test41.AssemblyInfo.cs
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\obj\Debug\net6.0\Test41.csproj.CoreCompileInputs.cache
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\obj\Debug\net6.0\Test41.dll
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\obj\Debug\net6.0\refint\Test41.dll
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\obj\Debug\net6.0\Test41.pdb
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\obj\Debug\net6.0\Test41.genruntimeconfig.cache
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar6_22.08.2022\Test41\obj\Debug\net6.0\ref\Test41.dll
